@@ -1,6 +1,6 @@
 {
   "name": "golden-ratio-calculator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This project helps in calculating golden ratio.",
   "main": "index.js",
   "scripts": {
