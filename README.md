@@ -51,8 +51,8 @@ This function calculates the golden ratio and returns the result.
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/golden-ratio-generator).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/vndpal/golden-ratio-calculator).
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-username/golden-ratio-generator/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/vndpal/golden-ratio-calculator/blob/main/LICENSE) file for more details.
